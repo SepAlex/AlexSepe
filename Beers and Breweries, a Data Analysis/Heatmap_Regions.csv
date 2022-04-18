@@ -1,0 +1,52 @@
+region,state,Division,Country_Region
+washington,WA,Pacific,West
+oregon,OR,Pacific,West
+california,CA,Pacific,West
+alaska,AK,Pacific,West
+hawaii,HI,Pacific,West
+nevada,NV,Mountain,West
+idaho,ID,Mountain,West
+montana,MT,Mountain,West
+wyoming,WY,Mountain,West
+colorado,CO,Mountain,West
+utah,UT,Mountain,West
+arizona,AZ,Mountain,West
+new mexico,NM,Mountain,West
+north dakota,ND,West North Central,Midwest
+south dakota,SD,West North Central,Midwest
+nebraska,NE,West North Central,Midwest
+kansas,KS,West North Central,Midwest
+missouri,MO,West North Central,Midwest
+iowa,IA,West North Central,Midwest
+minnesota,MN,West North Central,Midwest
+oklahoma,OK,West South Central,South
+texas,TX,West South Central,South
+arkansas,AR,West South Central,South
+louisiana,LA,West South Central,South
+wisconsin,WI,East North Central,Midwest
+illinois,IL,East North Central,Midwest
+indiana,IN,East North Central,Midwest
+michigan,MI,East North Central,Midwest
+ohio,OH,East North Central,Midwest
+mississippi,MS,East South Central,South
+alabama,AL,East South Central,South
+tennessee,TN,East South Central,South
+kentucky,KY,East South Central,South
+florida,FL,South Atlantic,South
+georgia,GA,South Atlantic,South
+south carolina,SC,South Atlantic,South
+north carolina,NC,South Atlantic,South
+virginia,VA,South Atlantic,South
+west virginia,WV,South Atlantic,South
+maryland,MD,South Atlantic,South
+delaware,DE,South Atlantic,South
+distric of columbia,DC,South Atlantic,South
+pennsylvania,PA,Middle Atlantic,Northeast
+new york,NY,Middle Atlantic,Northeast
+new jersey,NJ,Middle Atlantic,Northeast
+vermont,VT,New England,Northeast
+new hampshire,NH,New England,Northeast
+maine,ME,New England,Northeast
+connecticut,CT,New England,Northeast
+massachusetts,MA,New England,Northeast
+rhode island,RI,New England,Northeast
